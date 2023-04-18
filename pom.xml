@@ -81,6 +81,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>app-order</finalName>
     </build>
 
 </project>
