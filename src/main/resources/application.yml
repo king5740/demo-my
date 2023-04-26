@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/order
-    username: postgres
-    password: cyberhack25
+    url: jdbc:postgresql://localhost:5432/orders
+    username: someone
+    password: root123
 
   jpa:
     hibernate:
@@ -33,6 +33,6 @@ logging:
 
 app:
   admin:
-    password: MyPassword123@
-    firstName: "admin"
+    password: asad7167
+    firstName: "turgunboyev791@gmail.com"
 
