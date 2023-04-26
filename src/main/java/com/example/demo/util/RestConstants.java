@@ -14,7 +14,7 @@ public interface RestConstants {
     String[] OPEN_PAGES = {
             "/*",
             AuthController.AUTH_CONTROLLER_BASE_PATH + "/**",
-            OrderController.ADDRESS_BASE_PATH+"/*"
+            OrderController.ADDRESS_BASE_PATH+"/add"
     };
     String BASE_PATH = "/api/v1/";
 
